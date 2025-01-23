@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Conectando sua marca com com esporte e entretenimento
+      text: Conectando sua marca com esporte e entretenimento
       color: text-dark
       type: TitleBlock
     subtitle: Um novo modelo de mídia
