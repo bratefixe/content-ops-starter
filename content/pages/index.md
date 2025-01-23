@@ -7,7 +7,7 @@ sections:
       text: Connecting your brand with sports and entertainment
       color: text-dark
       type: TitleBlock
-    subtitle: Um novo modelo de mídia
+    subtitle: A new media model
     text: >
       Nossa missão é unir as expectativas das marcas com as experiências do
       esporte e do entretenimento através de parcerias sólidas e seguras
