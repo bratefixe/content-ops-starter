@@ -92,7 +92,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Generic Section With A Form
+      text: Send your project to connect it with amazing experiences
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
