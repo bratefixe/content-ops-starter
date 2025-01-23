@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Conectando sua marca com
+      text: Conectando sua marca com com esporte e entretenimento
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
