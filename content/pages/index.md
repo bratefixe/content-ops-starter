@@ -8,9 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: A new media model
-    text: >
-      Nossa missão é unir as expectativas das marcas com as experiências do
-      esporte e do entretenimento através de parcerias sólidas e seguras
+    text: >+
+      Our mission is to align brand expectations with the experiences of sports
+      and entertainment through strong and secure partnerships.
+
     actions:
       - label: Get started
         altText: ''
