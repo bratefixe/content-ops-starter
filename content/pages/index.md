@@ -12,16 +12,7 @@ sections:
       Our mission is to align brand expectations with the experiences of sports
       and entertainment through strong and secure partnerships.
 
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/S.png
       altText: Unblock your team boost your time to production preview
