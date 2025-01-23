@@ -95,7 +95,7 @@ sections:
       text: Send your project to connect it with amazing experiences
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Let us help
     text: >+
 
       We will help your brand connect with brands that share values aligned with
