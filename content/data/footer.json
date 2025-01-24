@@ -101,6 +101,6 @@
         }
     ],
     "copyrightText": "Powered by Fixe Group Inc.\n",
-    "colors": "bg-neutral-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
