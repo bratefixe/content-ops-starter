@@ -20,6 +20,9 @@
         "self": {
             "padding": [
                 "pb-1"
+            ],
+            "margin": [
+                "mb-1"
             ]
         }
     }
