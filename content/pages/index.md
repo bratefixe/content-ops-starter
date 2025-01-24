@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Connecting your brand with entertainment, games, music and'
+      text: 'Connecting your brand with entertainment, sports, games and music'
       color: text-dark
       type: TitleBlock
     subtitle: A new media model
