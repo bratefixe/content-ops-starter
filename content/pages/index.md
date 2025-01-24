@@ -8,10 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: A new media model
-    text: >+
+    text: >
       Our mission is to align brand expectations with the experiences of sports
-      and entertainment through strong and secure partnerships.
-
+      and entertainment through strong and secure partnerships
     actions: []
     media:
       url: /images/S.png
