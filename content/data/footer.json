@@ -55,7 +55,7 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link",
-                "showIcon": false
+                "showIcon": true
             }
         ],
         "type": "FooterLinksGroup"
